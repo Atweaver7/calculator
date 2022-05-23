@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+.container {
+    margin-top: 10%;
+}
+.outer {
+ padding: 5%;
+ font-size: x-large;
+}
+
+.display {
+    margin: 0;
+    min-height: 100px;
+    max-width: 500px;
+    border: 2px solid black;
+}
